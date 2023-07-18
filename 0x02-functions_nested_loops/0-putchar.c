@@ -1,8 +1,10 @@
+#include "main.h"
 /**
  * main - print _putchar
- * written by biggy
+ * is written by mbah
  * Return: 0
  */
+
 
 int main(void)
 {

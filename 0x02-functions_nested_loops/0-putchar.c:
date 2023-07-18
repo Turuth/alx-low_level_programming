@@ -1,0 +1,4 @@
+r.c:9:1: error: implicit declaration of function ‘_putchar’ [-Werror=implicit-function-declaration]
+    9 | _putchar('_');
+      | ^~~~~~~~
+cc1: all warnings being treated as errors
