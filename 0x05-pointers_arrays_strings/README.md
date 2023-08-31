@@ -1,1 +1,1 @@
-king kaka
+pointers and arrays
